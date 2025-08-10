@@ -1,0 +1,22 @@
+# TryHackMe Task: Offensive Security Intro
+
+ **Date Completed:** [10/08/2025]
+
+## Objective  
+To gain an introductory understanding of offensive cybersecurity concepts, tools, and methodologies used in penetration testing.
+
+## Tools Used  
+- Nmap (Network scanning)  
+- Basic Linux commands  
+- Metasploit (Introduction)  
+
+## Steps Taken  
+1. Learned how to perform network scanning to discover open ports and services.  
+2. Explored basic vulnerability identification techniques.  
+3. Practiced simple exploitation methods using Metasploit.  
+4. Understood privilege escalation fundamentals.  
+
+## Outcome  
+Completed the introductory room to build foundational skills in offensive security. Gained hands-on experience with scanning, exploitation, and privilege escalation techniques, preparing me for more advanced penetration testing challenges.
+
+---
